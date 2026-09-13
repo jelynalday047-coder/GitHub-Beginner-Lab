@@ -10,7 +10,7 @@ namespace StudentProfile
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Jelyn Alday","Student Profile");
-            lbl1.Text = "Contact number: 09123456789";
+            MessageBox.Show( "Contact number: 09123456789");
         }
     }
 }
